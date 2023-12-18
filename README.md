@@ -10,6 +10,7 @@ Scikit-Learn
 SciPy
 Matplotlib
 Seaborn
+
 You can install the dependencies using the following command:
 
 bash
